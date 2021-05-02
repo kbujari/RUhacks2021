@@ -211,6 +211,10 @@ li button:hover {
   border-radius: 5px;
 }
 
+.thumbnail:hover {
+  transform: scale(1.05);
+}
+
 /* css related to modal*/
 
 /* The Modal (background) */
