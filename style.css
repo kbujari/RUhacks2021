@@ -31,6 +31,7 @@ nav {
   font-weight: bold;
   font-size: 1.4rem;
   background: transparent;
+  font-family: 'Jetbrains Mono', monospace;
 }
 
 nav button {
@@ -43,6 +44,7 @@ nav button {
   border-radius: 10px;
   background-color: #fefefe;
   border: #fefefe;
+  font-family: 'Jetbrains Mono', monospace;
 }
 
 nav button:hover {
@@ -55,7 +57,7 @@ nav button:hover {
   width: 250px;
   position: fixed;
   z-index: 1;
-  background: whitesmoke;
+  background: transparent;
   height: 100%;
   overflow-x: hidden;
   padding-top: 8px;
@@ -67,6 +69,7 @@ nav button:hover {
   margin-top: 10px;
   font-size: 1.8rem;
   text-align: center;
+  font-family: 'Jetbrains Mono', monospace;
 }
 
 ul {
@@ -75,7 +78,7 @@ ul {
 
 li {
   padding: 5px;
-  margin-left: 15%;
+  margin-left: 12.5%;
   list-style-type: none;
   vertical-align: middle;
 }
@@ -84,8 +87,8 @@ li button {
   text-decoration: none;
   font-size: 1.2rem;
   color: black;
-  border: whitesmoke;
-  background-color: whitesmoke;
+  border: transparent;
+  background-color: transparent;
   border-radius: 3px;
   height: 40px;
 
@@ -98,22 +101,71 @@ li button:hover {
 
 #link1 {
   color: aliceblue;
-  background-color: #710C10;
-  border: 5px solid #710C10;
+  background-color: #b360d6;
+  border: 5px solid #b360d6;
   border-radius: 3px;
 }
 
 #link2 {
   color: aliceblue;
-  background-color: #EBB93E;
-  border: 5px solid #EBB93E;
+  background-color: #664280;
+  border: 5px solid #664280;
   border-radius: 3px;
 }
 
 #link3 {
   color: aliceblue;
-  background-color: #0000ff;
-  border: 5px solid #0000ff;
+  background-color: #6b6bff;
+  border: 5px solid #6b6bff;
+  border-radius: 3px;
+}
+
+#link4 {
+  color: aliceblue;
+  background-color: #25a881;
+  border: 5px solid #25a881;
+  border-radius: 3px;
+}
+
+#link5 {
+  color: aliceblue;
+  background-color: #62a162;
+  border: 5px solid #62a162;
+  border-radius: 3px;
+}
+
+#link6 {
+  color: aliceblue;
+  background-color: #9aa34b;
+  border: 5px solid #9aa34b;
+  border-radius: 3px;
+}
+
+#link7 {
+  color: aliceblue;
+  background-color: #c2c24c;
+  border: 5px solid #c2c24c;
+  border-radius: 3px;
+}
+
+#link8 {
+  color: aliceblue;
+  background-color: #ff9c38;
+  border: 5px solid #ff9c38;
+  border-radius: 3px;
+}
+
+#link9 {
+  color: aliceblue;
+  background-color: #ff6338;
+  border: 5px solid #ff6338;
+  border-radius: 3px;
+}
+
+#link10 {
+  color: aliceblue;
+  background-color: #ff5252;
+  border: 5px solid #ff5252;
   border-radius: 3px;
 }
 
@@ -141,7 +193,7 @@ li button:hover {
 }
 
 .infoTitle {
-  font-family:Jetbrains Mono;
+  font-family: 'Jetbrains Mono', monospace;
 }
 .infoText {
   margin-left: 15px;
