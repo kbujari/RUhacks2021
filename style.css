@@ -169,6 +169,11 @@ li button:hover {
   border-radius: 3px;
 }
 
+#invis {
+  border: 5px solid white;
+  color: white;
+}
+
 /* css related to main area*/
 .main {
   margin-top: 95px;
