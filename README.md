@@ -1,15 +1,5 @@
 # Intro Edu
 
-### TODO
-- Write script to hide all but chosen boxes
-- Fill out content for boxes
-- Make video
-- Make DevPost
-
-Due 02/05/2021 at 19:00 EDT
-
-----
-
 Intro Edu is a site built with HTML5/CSS3, and basic Javascript, looking to provide a modern, streamlined UI, for users interested in learning new skills, but don't know where to start.
 
 &nbsp;
