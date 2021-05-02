@@ -236,3 +236,115 @@ li button:hover {
   width: 60%; /* Could be more or less, depending on screen size */
   border-radius: 10px;
 }
+
+/* CSS related to the boxes and button interaction */
+
+#coding {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#photography {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#hiking {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#math {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#chemistry {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#physics {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#audioEditing {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#videoEditing {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#piano {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#creativeWrtiting {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#all {
+  font-weight: 400;
+  transition: all 0.35s ease;
+}
+
+#coding.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
+
+#photography.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
+
+#hiking.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
+
+#math.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
+
+#chemistry.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
+
+#physics.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
+
+#audioEditing.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
+
+#videoEditing.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
+
+#piano.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
+
+#creativeWriting.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
+
+#all.active {
+  font-weight: 1000;
+  transition: all 0.35s ease;
+}
